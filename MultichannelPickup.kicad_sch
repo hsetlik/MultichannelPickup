@@ -1,5 +1,127 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "11318d21-84ec-46b6-bc16-194e02362538")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 21.59 66.04)
+		(size 52.832 42.418)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "511175fb-c7d1-4580-be3f-5684a0d9d812")
+		(property "Sheetname" "PowerSupply"
+			(at 21.59 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PowerSupply.kicad_sch"
+			(at 21.59 109.0426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MultichannelPickup"
+				(path "/11318d21-84ec-46b6-bc16-194e02362538"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 21.59)
+		(size 52.832 37.846)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d2e9b513-802a-453a-ad2b-3e67eb5e7fe1")
+		(property "Sheetname" "MasterMCU"
+			(at 21.59 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MasterMCU.kicad_sch"
+			(at 21.59 60.0206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MultichannelPickup"
+				(path "/11318d21-84ec-46b6-bc16-194e02362538"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 21.59)
+		(size 43.434 37.846)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d9bc5384-1cfa-44c0-9b8b-9e2d338aae64")
+		(property "Sheetname" "Pickup"
+			(at 76.2 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pickup.kicad_sch"
+			(at 76.2 60.0206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MultichannelPickup"
+				(path "/11318d21-84ec-46b6-bc16-194e02362538"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
