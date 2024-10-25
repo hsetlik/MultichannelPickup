@@ -44,6 +44,9 @@
 I2S_HandleTypeDef hi2s1;
 I2S_HandleTypeDef hi2s2;
 I2S_HandleTypeDef hi2s3;
+DMA_HandleTypeDef hdma_spi1_rx;
+DMA_HandleTypeDef hdma_spi2_rx;
+DMA_HandleTypeDef hdma_spi3_rx;
 
 SPI_HandleTypeDef hspi4;
 
@@ -55,6 +58,7 @@ SPI_HandleTypeDef hspi4;
 void SystemClock_Config(void);
 static void MPU_Config(void);
 static void MX_GPIO_Init(void);
+static void MX_DMA_Init(void);
 static void MX_I2S1_Init(void);
 static void MX_I2S2_Init(void);
 static void MX_I2S3_Init(void);
@@ -100,6 +104,7 @@ int main(void)
 
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
+  MX_DMA_Init();
   MX_I2S1_Init();
   MX_I2S2_Init();
   MX_I2S3_Init();
@@ -199,7 +204,7 @@ static void MX_I2S1_Init(void)
   hi2s1.Instance = SPI1;
   hi2s1.Init.Mode = I2S_MODE_MASTER_RX;
   hi2s1.Init.Standard = I2S_STANDARD_PHILIPS;
-  hi2s1.Init.DataFormat = I2S_DATAFORMAT_16B;
+  hi2s1.Init.DataFormat = I2S_DATAFORMAT_24B;
   hi2s1.Init.MCLKOutput = I2S_MCLKOUTPUT_ENABLE;
   hi2s1.Init.AudioFreq = I2S_AUDIOFREQ_8K;
   hi2s1.Init.CPOL = I2S_CPOL_LOW;
@@ -235,7 +240,7 @@ static void MX_I2S2_Init(void)
   hi2s2.Instance = SPI2;
   hi2s2.Init.Mode = I2S_MODE_MASTER_RX;
   hi2s2.Init.Standard = I2S_STANDARD_PHILIPS;
-  hi2s2.Init.DataFormat = I2S_DATAFORMAT_16B;
+  hi2s2.Init.DataFormat = I2S_DATAFORMAT_24B;
   hi2s2.Init.MCLKOutput = I2S_MCLKOUTPUT_ENABLE;
   hi2s2.Init.AudioFreq = I2S_AUDIOFREQ_8K;
   hi2s2.Init.CPOL = I2S_CPOL_LOW;
@@ -271,7 +276,7 @@ static void MX_I2S3_Init(void)
   hi2s3.Instance = SPI3;
   hi2s3.Init.Mode = I2S_MODE_MASTER_RX;
   hi2s3.Init.Standard = I2S_STANDARD_PHILIPS;
-  hi2s3.Init.DataFormat = I2S_DATAFORMAT_16B;
+  hi2s3.Init.DataFormat = I2S_DATAFORMAT_24B;
   hi2s3.Init.MCLKOutput = I2S_MCLKOUTPUT_ENABLE;
   hi2s3.Init.AudioFreq = I2S_AUDIOFREQ_8K;
   hi2s3.Init.CPOL = I2S_CPOL_LOW;
@@ -334,6 +339,28 @@ static void MX_SPI4_Init(void)
   /* USER CODE BEGIN SPI4_Init 2 */
 
   /* USER CODE END SPI4_Init 2 */
+
+}
+
+/**
+  * Enable DMA controller clock
+  */
+static void MX_DMA_Init(void)
+{
+
+  /* DMA controller clock enable */
+  __HAL_RCC_DMA1_CLK_ENABLE();
+
+  /* DMA interrupt init */
+  /* DMA1_Stream0_IRQn interrupt configuration */
+  HAL_NVIC_SetPriority(DMA1_Stream0_IRQn, 0, 0);
+  HAL_NVIC_EnableIRQ(DMA1_Stream0_IRQn);
+  /* DMA1_Stream1_IRQn interrupt configuration */
+  HAL_NVIC_SetPriority(DMA1_Stream1_IRQn, 0, 0);
+  HAL_NVIC_EnableIRQ(DMA1_Stream1_IRQn);
+  /* DMA1_Stream2_IRQn interrupt configuration */
+  HAL_NVIC_SetPriority(DMA1_Stream2_IRQn, 0, 0);
+  HAL_NVIC_EnableIRQ(DMA1_Stream2_IRQn);
 
 }
 
