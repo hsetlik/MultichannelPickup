@@ -1879,16 +1879,6 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 97.79) (xy 261.62 98.806)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31475388-e1ce-4848-a9c6-ecd0fb4b0950")
-	)
-	(wire
-		(pts
 			(xy 122.682 70.866) (xy 128.016 70.866)
 		)
 		(stroke
@@ -1989,16 +1979,6 @@
 	)
 	(wire
 		(pts
-			(xy 197.104 97.79) (xy 197.104 98.806)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4438ebb0-45b0-4a76-88a8-0cc1c30847fc")
-	)
-	(wire
-		(pts
 			(xy 87.63 67.818) (xy 98.806 67.818)
 		)
 		(stroke
@@ -2056,16 +2036,6 @@
 			(type default)
 		)
 		(uuid "4e85ffe5-622e-4c88-955e-b5e5176fe37b")
-	)
-	(wire
-		(pts
-			(xy 261.62 88.138) (xy 261.62 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55e01b59-9279-4fd2-917c-f4f2e96d36ad")
 	)
 	(wire
 		(pts
@@ -2156,16 +2126,6 @@
 			(type default)
 		)
 		(uuid "71c6ad71-bccf-4388-840e-fc0977dc1fdb")
-	)
-	(wire
-		(pts
-			(xy 197.104 88.138) (xy 197.104 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "735cfaea-3d16-4ff0-ae25-77048c3f1d68")
 	)
 	(wire
 		(pts
@@ -4704,143 +4664,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 197.104 98.806 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c199b47-6b40-42a7-91ab-313d70929e68")
-		(property "Reference" "#PWR0420"
-			(at 197.104 105.156 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 197.104 102.616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 197.104 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 197.104 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 197.104 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cf427605-3cf0-4ade-8ac1-8b68726838e2")
-		)
-		(instances
-			(project "MultichannelPickup"
-				(path "/11318d21-84ec-46b6-bc16-194e02362538/d9bc5384-1cfa-44c0-9b8b-9e2d338aae64"
-					(reference "#PWR0420")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 261.62 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "51bb2aeb-1215-4f28-b931-bb83371433f3")
-		(property "Reference" "R406"
-			(at 263.652 92.7099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 263.652 95.2499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 262.636 94.234 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 261.62 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 261.62 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fb2f4875-71ac-45a3-b4ae-0abcd5bd603e")
-		)
-		(pin "2"
-			(uuid "6384a315-3657-49f3-8c35-e6866894aa25")
-		)
-		(instances
-			(project "MultichannelPickup"
-				(path "/11318d21-84ec-46b6-bc16-194e02362538/d9bc5384-1cfa-44c0-9b8b-9e2d338aae64"
-					(reference "R406")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 109.982 71.374 0)
 		(unit 1)
@@ -6165,73 +5988,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 261.62 98.806 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a31589f9-6c43-4692-bc63-b140fef211f4")
-		(property "Reference" "#PWR0429"
-			(at 261.62 105.156 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 261.62 102.616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 261.62 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 261.62 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 261.62 98.806 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c03c7315-f881-4788-9ce4-c35a125df1ca")
-		)
-		(instances
-			(project "MultichannelPickup"
-				(path "/11318d21-84ec-46b6-bc16-194e02362538/d9bc5384-1cfa-44c0-9b8b-9e2d338aae64"
-					(reference "#PWR0429")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 152.146 102.108 270)
 		(mirror x)
@@ -7252,76 +7008,6 @@
 			(project "MultichannelPickup"
 				(path "/11318d21-84ec-46b6-bc16-194e02362538/d9bc5384-1cfa-44c0-9b8b-9e2d338aae64"
 					(reference "#PWR0411")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 197.104 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ddb0f622-e82e-477c-995c-cf72dd95592c")
-		(property "Reference" "R404"
-			(at 199.136 92.7099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 199.136 95.2499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 198.12 94.234 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 197.104 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 197.104 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0db7a84-e95c-45c6-94f6-ad94b8217bac")
-		)
-		(pin "2"
-			(uuid "0af61514-4208-4482-b8d1-5a43db6319de")
-		)
-		(instances
-			(project "MultichannelPickup"
-				(path "/11318d21-84ec-46b6-bc16-194e02362538/d9bc5384-1cfa-44c0-9b8b-9e2d338aae64"
-					(reference "R404")
 					(unit 1)
 				)
 			)

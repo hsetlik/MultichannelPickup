@@ -58,6 +58,20 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define LORA_SCK_Pin GPIO_PIN_2
+#define LORA_SCK_GPIO_Port GPIOE
+#define LORA_NRST_Pin GPIO_PIN_3
+#define LORA_NRST_GPIO_Port GPIOE
+#define LORA_CS_Pin GPIO_PIN_4
+#define LORA_CS_GPIO_Port GPIOE
+#define LORA_MISO_Pin GPIO_PIN_5
+#define LORA_MISO_GPIO_Port GPIOE
+#define LORA_MOSI_Pin GPIO_PIN_6
+#define LORA_MOSI_GPIO_Port GPIOE
+#define LORA_BUSY_Pin GPIO_PIN_0
+#define LORA_BUSY_GPIO_Port GPIOE
+#define LORA_IRQ_Pin GPIO_PIN_1
+#define LORA_IRQ_GPIO_Port GPIOE
 
 /* USER CODE BEGIN Private defines */
 
@@ -65,6 +79,8 @@ void Error_Handler(void);
 extern I2S_HandleTypeDef hi2s1;
 extern I2S_HandleTypeDef hi2s2;
 extern I2S_HandleTypeDef hi2s3;
+extern SPI_HandleTypeDef hspi4;
+#define RADIO_SPI hspi4
 
 /* USER CODE END Private defines */
 
