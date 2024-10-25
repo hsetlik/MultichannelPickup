@@ -133,6 +133,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  input_stream_tick(iStream);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
