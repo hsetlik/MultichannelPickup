@@ -18,6 +18,7 @@
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
+#include "AudioInputStream.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
@@ -52,6 +53,9 @@ SPI_HandleTypeDef hspi4;
 
 /* USER CODE BEGIN PV */
 
+// input stream
+input_stream_t iStream;
+
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -69,6 +73,16 @@ static void MX_SPI4_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
+
+//I2S callbacks-------------------------
+
+void HAL_I2S_RxHalfCpltCallback (I2S_HandleTypeDef * i2s){
+	rx_half_complete(iStream, i2s);
+}
+
+void HAL_I2S_RxCpltCallback (I2S_HandleTypeDef * i2s){
+	rx_complete(iStream, i2s);
+}
 
 /* USER CODE END 0 */
 
@@ -110,6 +124,8 @@ int main(void)
   MX_I2S3_Init();
   MX_SPI4_Init();
   /* USER CODE BEGIN 2 */
+  iStream = create_input_stream();
+  input_stream_begin(iStream);
 
   /* USER CODE END 2 */
 
