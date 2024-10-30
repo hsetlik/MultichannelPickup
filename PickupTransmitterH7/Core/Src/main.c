@@ -476,7 +476,10 @@ static void MX_GPIO_Init(void)
   HAL_GPIO_WritePin(LORA_NRST_GPIO_Port, LORA_NRST_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOC, LORA_TX_ENABLE_Pin|LORA_RX_ENABLE_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOC, LORA_RX_ENABLE_Pin|LORA_TX_ENABLE_Pin, GPIO_PIN_RESET);
+
+  /*Configure GPIO pin Output Level */
+  HAL_GPIO_WritePin(GPIOD, LED1_Pin|LED2_Pin|LED3_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin : LORA_NRST_Pin */
   GPIO_InitStruct.Pin = LORA_NRST_Pin;
@@ -485,12 +488,19 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(LORA_NRST_GPIO_Port, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : LORA_TX_ENABLE_Pin LORA_RX_ENABLE_Pin */
-  GPIO_InitStruct.Pin = LORA_TX_ENABLE_Pin|LORA_RX_ENABLE_Pin;
+  /*Configure GPIO pins : LORA_RX_ENABLE_Pin LORA_TX_ENABLE_Pin */
+  GPIO_InitStruct.Pin = LORA_RX_ENABLE_Pin|LORA_TX_ENABLE_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
+
+  /*Configure GPIO pins : LED1_Pin LED2_Pin LED3_Pin */
+  GPIO_InitStruct.Pin = LED1_Pin|LED2_Pin|LED3_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  HAL_GPIO_Init(GPIOD, &GPIO_InitStruct);
 
   /*Configure GPIO pins : ADR1_Pin ADR2_Pin ADR3_Pin FREQ1_Pin
                            FREQ2_Pin */
@@ -499,6 +509,12 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   HAL_GPIO_Init(GPIOD, &GPIO_InitStruct);
+
+  /*Configure GPIO pin : LORA_IO2_Pin */
+  GPIO_InitStruct.Pin = LORA_IO2_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  HAL_GPIO_Init(LORA_IO2_GPIO_Port, &GPIO_InitStruct);
 
   /*Configure GPIO pin : LORA_BUSY_Pin */
   GPIO_InitStruct.Pin = LORA_BUSY_Pin;
