@@ -3634,7 +3634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 230.124 93.472 90)
 			(effects
 				(font
@@ -3769,7 +3769,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8"
 			(at 40.894 85.344 0)
 			(effects
 				(font
@@ -3902,7 +3902,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 100.33 94.234 90)
 			(effects
 				(font
@@ -4036,7 +4036,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 37.084 106.426 0)
 			(effects
 				(font
@@ -4243,7 +4243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 132.842 94.996 90)
 			(effects
 				(font
@@ -4380,7 +4380,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 165.608 93.472 90)
 			(effects
 				(font
@@ -4621,7 +4621,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8"
 			(at 40.386 68.326 0)
 			(effects
 				(font
@@ -5068,7 +5068,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8"
 			(at 40.386 59.436 0)
 			(effects
 				(font
@@ -5468,7 +5468,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 226.06 104.9528 0)
 			(effects
 				(font
@@ -6013,7 +6013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.336 101.1428 0)
 			(effects
 				(font
@@ -6148,7 +6148,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 212.852 101.1428 0)
 			(effects
 				(font
@@ -6630,7 +6630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 96.266 105.7148 0)
 			(effects
 				(font
@@ -7039,7 +7039,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 83.058 101.9048 0)
 			(effects
 				(font
@@ -7177,7 +7177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 161.544 104.9528 0)
 			(effects
 				(font
@@ -7555,7 +7555,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 41.402 94.488 0)
 			(effects
 				(font
@@ -7623,7 +7623,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8"
 			(at 40.894 76.962 0)
 			(effects
 				(font
@@ -7691,7 +7691,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8"
 			(at 40.386 51.054 0)
 			(effects
 				(font
@@ -7826,7 +7826,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8"
 			(at 39.878 42.418 0)
 			(effects
 				(font

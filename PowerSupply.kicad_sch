@@ -2368,7 +2368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Abracon_ASPI-4030S"
 			(at 192.278 77.724 0)
 			(effects
 				(font
@@ -3000,7 +3000,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Abracon_ASPI-4030S"
 			(at 113.538 75.184 0)
 			(effects
 				(font
@@ -3205,7 +3205,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_4ms_Switch:Switch_Toggle_SPST_SubMini"
 			(at 60.96 43.434 0)
 			(effects
 				(font

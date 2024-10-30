@@ -68,6 +68,10 @@ void Error_Handler(void);
 #define LORA_MISO_GPIO_Port GPIOE
 #define LORA_MOSI_Pin GPIO_PIN_6
 #define LORA_MOSI_GPIO_Port GPIOE
+#define LORA_TX_ENABLE_Pin GPIO_PIN_1
+#define LORA_TX_ENABLE_GPIO_Port GPIOC
+#define LORA_RX_ENABLE_Pin GPIO_PIN_2
+#define LORA_RX_ENABLE_GPIO_Port GPIOC
 #define BATT_Pin GPIO_PIN_2
 #define BATT_GPIO_Port GPIOA
 #define ADR1_Pin GPIO_PIN_0

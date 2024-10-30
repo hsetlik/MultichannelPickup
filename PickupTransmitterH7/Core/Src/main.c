@@ -475,12 +475,22 @@ static void MX_GPIO_Init(void)
   /*Configure GPIO pin Output Level */
   HAL_GPIO_WritePin(LORA_NRST_GPIO_Port, LORA_NRST_Pin, GPIO_PIN_RESET);
 
+  /*Configure GPIO pin Output Level */
+  HAL_GPIO_WritePin(GPIOC, LORA_TX_ENABLE_Pin|LORA_RX_ENABLE_Pin, GPIO_PIN_RESET);
+
   /*Configure GPIO pin : LORA_NRST_Pin */
   GPIO_InitStruct.Pin = LORA_NRST_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(LORA_NRST_GPIO_Port, &GPIO_InitStruct);
+
+  /*Configure GPIO pins : LORA_TX_ENABLE_Pin LORA_RX_ENABLE_Pin */
+  GPIO_InitStruct.Pin = LORA_TX_ENABLE_Pin|LORA_RX_ENABLE_Pin;
+  GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
+  HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
 
   /*Configure GPIO pins : ADR1_Pin ADR2_Pin ADR3_Pin FREQ1_Pin
                            FREQ2_Pin */
