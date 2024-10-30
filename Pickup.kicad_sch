@@ -4228,7 +4228,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.246 52.578) (xy 200.66 52.578)
+			(xy 190.246 52.578) (xy 194.31 52.578)
 		)
 		(stroke
 			(width 0)
@@ -4498,7 +4498,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 90.678) (xy 200.914 90.678)
+			(xy 190.5 90.678) (xy 194.564 90.678)
 		)
 		(stroke
 			(width 0)
@@ -5509,7 +5509,7 @@
 		(uuid "ea9b8ddc-c3e4-4189-b9ab-6929baa7ec9e")
 	)
 	(label "COIL3-"
-		(at 147.828 61.468 180)
+		(at 140.97 88.138 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5520,7 +5520,7 @@
 		(uuid "0181ecb0-2a97-4c6b-8dcd-b9e5a8163900")
 	)
 	(label "COIL6-"
-		(at 229.616 100.33 180)
+		(at 217.17 52.578 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5564,7 +5564,7 @@
 		(uuid "0bba40ba-2417-431b-b93f-fab550383737")
 	)
 	(label "COIL2-"
-		(at 85.09 95.25 180)
+		(at 72.644 47.498 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5575,7 +5575,7 @@
 		(uuid "0caadf98-3de6-4fd4-860e-86ab55ae919c")
 	)
 	(label "COIL4+"
-		(at 140.97 88.138 180)
+		(at 147.828 61.468 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5597,7 +5597,7 @@
 		(uuid "18d238f0-cab8-46d3-82a1-9731b4ff9270")
 	)
 	(label "COIL_4"
-		(at 200.914 90.678 0)
+		(at 194.31 52.578 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5608,7 +5608,7 @@
 		(uuid "22150e0d-8c96-4d06-ab6a-136e5a1d4d1f")
 	)
 	(label "COIL_6"
-		(at 277.876 93.218 0)
+		(at 277.622 55.118 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5619,7 +5619,7 @@
 		(uuid "2a8e3d1c-beb1-4b44-b89a-e24aa695115c")
 	)
 	(label "COIL_1"
-		(at 125.222 50.038 0)
+		(at 125.476 88.138 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5674,7 +5674,7 @@
 		(uuid "45b66536-ceb2-4346-832a-d6c17a26567d")
 	)
 	(label "COIL5-"
-		(at 224.79 64.008 180)
+		(at 217.932 90.678 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5685,7 +5685,7 @@
 		(uuid "4e1efbb2-1f51-40fa-9e15-377e6227d62d")
 	)
 	(label "COIL1-"
-		(at 80.264 58.928 180)
+		(at 73.406 85.598 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5696,7 +5696,7 @@
 		(uuid "4eca70ad-d903-4a20-8445-5955a97305bd")
 	)
 	(label "COIL3+"
-		(at 140.208 50.038 180)
+		(at 152.654 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5729,7 +5729,7 @@
 		(uuid "57f231fa-52e6-4aa3-91f7-ab0c658b22e0")
 	)
 	(label "COIL2+"
-		(at 73.406 85.598 180)
+		(at 80.264 58.928 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5795,7 +5795,7 @@
 		(uuid "71d6bc4b-e895-458c-8272-c947fcd4a82e")
 	)
 	(label "COIL_5"
-		(at 277.622 55.118 0)
+		(at 277.876 93.218 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5839,7 +5839,7 @@
 		(uuid "78e9a1a5-01ed-4595-b673-83dd42c17405")
 	)
 	(label "COIL_2"
-		(at 125.476 88.138 0)
+		(at 125.222 50.038 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5872,7 +5872,7 @@
 		(uuid "9c7df092-88fa-4d49-b16d-427cafba3458")
 	)
 	(label "COIL4-"
-		(at 152.654 97.79 180)
+		(at 140.208 50.038 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5905,7 +5905,7 @@
 		(uuid "bb2e4bdb-44e3-4a64-860f-56ee3bdbac5f")
 	)
 	(label "COIL_3"
-		(at 200.66 52.578 0)
+		(at 194.564 90.678 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5916,7 +5916,7 @@
 		(uuid "c57e4d9f-fb1c-43aa-9ec3-4811f61b84a6")
 	)
 	(label "COIL6+"
-		(at 217.932 90.678 180)
+		(at 224.79 64.008 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6004,7 +6004,7 @@
 		(uuid "ebe48e96-342d-4a1d-b825-4e2625b7cd62")
 	)
 	(label "COIL5+"
-		(at 217.17 52.578 180)
+		(at 229.616 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6015,7 +6015,7 @@
 		(uuid "ef392768-1ba4-4b2a-a92c-7853e8126928")
 	)
 	(label "COIL1+"
-		(at 72.644 47.498 180)
+		(at 85.09 95.25 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7129,32 +7129,34 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 113.284 41.656 90)
+		(at 105.664 64.008 0)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1e0c365a-e628-47b5-b1b2-226cbc22ec53")
 		(property "Reference" "RN402"
-			(at 113.284 35.052 90)
+			(at 103.886 62.7379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "33k"
-			(at 113.284 37.592 90)
+			(at 103.886 65.2779 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 113.284 43.688 90)
+			(at 103.632 64.008 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7163,7 +7165,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.284 41.656 0)
+			(at 105.664 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7172,7 +7174,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 113.284 41.656 0)
+			(at 105.664 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7215,7 +7217,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 146.812 88.138 90)
+		(at 154.686 61.468 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7224,7 +7226,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f610342-3920-454e-a2d1-52019804e34c")
 		(property "Reference" "C431"
-			(at 146.812 81.534 90)
+			(at 154.686 54.864 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7232,7 +7234,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 146.812 84.074 90)
+			(at 154.686 57.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7240,7 +7242,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 150.622 87.1728 0)
+			(at 158.496 60.5028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7249,7 +7251,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 146.812 88.138 0)
+			(at 154.686 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7258,7 +7260,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 146.812 88.138 0)
+			(at 154.686 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7335,37 +7337,37 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fb8")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fb9")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e4")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e5")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f13")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f14")
 		)
 		(pin "11"
-			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b7e")
+			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b7f")
 		)
 		(pin "4"
-			(uuid "3a77c1b7-8701-4999-840f-01c319563945")
+			(uuid "3a77c1b7-8701-4999-840f-01c319563946")
 		)
 		(pin "2"
-			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7403")
+			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7404")
 		)
 		(pin "3"
-			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c0")
+			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c1")
 		)
 		(pin "5"
-			(uuid "99fadd57-4a84-439f-8467-f91239c4bb70")
+			(uuid "99fadd57-4a84-439f-8467-f91239c4bb71")
 		)
 		(pin "6"
-			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b32")
+			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b33")
 		)
 		(pin "1"
-			(uuid "1d227835-a898-4d1a-bf17-90705d82d109")
+			(uuid "1d227835-a898-4d1a-bf17-90705d82d10a")
 		)
 		(pin "7"
-			(uuid "21860277-97af-4092-85bd-0d8d4eb63737")
+			(uuid "21860277-97af-4092-85bd-0d8d4eb63738")
 		)
 		(pin "10"
 			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0c")
@@ -7387,13 +7389,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 163.83 61.468 90)
+		(at 163.83 61.468 270)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "25c7031c-bded-4d80-aabf-5b4dd2bb7fa1")
 		(property "Reference" "RN403"
 			(at 163.83 54.864 90)
@@ -7543,13 +7545,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 87.884 85.598 90)
+		(at 87.884 85.598 270)
+		(mirror x)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2867add6-3b23-4800-93cb-cc04c510e802")
 		(property "Reference" "RN401"
 			(at 87.884 80.01 90)
@@ -7601,22 +7603,22 @@
 			(uuid "d537feb3-12be-497b-9d0f-262206cf65af")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d82")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d83")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc6")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc7")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005c")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f005d")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385a")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385b")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b848")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b849")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece04")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece05")
 		)
 		(instances
 			(project ""
@@ -7769,7 +7771,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 90.932 95.25 90)
+		(at 79.502 47.498 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7778,7 +7780,7 @@
 		(fields_autoplaced yes)
 		(uuid "2cbb2905-856a-424c-8f42-274223781498")
 		(property "Reference" "C428"
-			(at 90.932 88.646 90)
+			(at 79.502 40.894 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7786,7 +7788,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 90.932 91.186 90)
+			(at 79.502 43.434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7794,7 +7796,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 94.742 94.2848 0)
+			(at 83.312 46.5328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7803,7 +7805,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.932 95.25 0)
+			(at 79.502 47.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7812,7 +7814,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 90.932 95.25 0)
+			(at 79.502 47.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7837,7 +7839,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 79.248 85.598 90)
+		(at 87.122 58.928 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7846,7 +7848,7 @@
 		(fields_autoplaced yes)
 		(uuid "2dad132b-0372-4348-b77b-48660426a305")
 		(property "Reference" "C427"
-			(at 79.248 78.994 90)
+			(at 87.122 52.324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7854,7 +7856,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 79.248 81.534 90)
+			(at 87.122 54.864 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7862,7 +7864,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 83.058 84.6328 0)
+			(at 90.932 57.9628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7871,7 +7873,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 79.248 85.598 0)
+			(at 87.122 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7880,7 +7882,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 79.248 85.598 0)
+			(at 87.122 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7905,32 +7907,34 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 257.81 46.736 90)
+		(at 250.19 69.088 0)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2ecee843-af3f-4149-b41a-cd75253a69e5")
 		(property "Reference" "RN406"
-			(at 257.81 40.132 90)
+			(at 247.904 67.8179 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "33k"
-			(at 257.81 42.672 90)
+			(at 247.904 70.3579 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 257.81 48.768 90)
+			(at 248.158 69.088 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7939,7 +7943,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 257.81 46.736 0)
+			(at 250.19 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7948,7 +7952,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 257.81 46.736 0)
+			(at 250.19 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7957,7 +7961,7 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895dd")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895de")
 		)
 		(pin "2"
 			(uuid "b308178f-863e-4304-beac-26a8c91376fd")
@@ -7966,19 +7970,19 @@
 			(uuid "e1d6ab0d-62cd-459c-8dd0-8a46be48fb7b")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b38")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b39")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a754")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a755")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6d")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6e")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623731")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623732")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766d")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766e")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -8061,7 +8065,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 154.686 61.468 90)
+		(at 146.812 88.138 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8070,7 +8074,7 @@
 		(fields_autoplaced yes)
 		(uuid "30540635-b310-4358-b5f8-8794e91add5c")
 		(property "Reference" "C433"
-			(at 154.686 54.864 90)
+			(at 146.812 81.534 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8078,7 +8082,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 154.686 57.404 90)
+			(at 146.812 84.074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8086,7 +8090,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 158.496 60.5028 0)
+			(at 150.622 87.1728 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8095,7 +8099,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.686 61.468 0)
+			(at 146.812 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8104,7 +8108,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 154.686 61.468 0)
+			(at 146.812 88.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8569,7 +8573,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 87.122 58.928 90)
+		(at 79.248 85.598 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8578,7 +8582,7 @@
 		(fields_autoplaced yes)
 		(uuid "47540087-93e4-4b3f-90ec-cc099d203902")
 		(property "Reference" "C426"
-			(at 87.122 52.324 90)
+			(at 79.248 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8586,7 +8590,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 87.122 54.864 90)
+			(at 79.248 81.534 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8594,7 +8598,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 90.932 57.9628 0)
+			(at 83.058 84.6328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8603,7 +8607,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 87.122 58.928 0)
+			(at 79.248 85.598 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8612,7 +8616,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 87.122 58.928 0)
+			(at 79.248 85.598 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8637,7 +8641,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 106.68 102.362 180)
+		(at 113.538 80.772 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8645,25 +8649,25 @@
 		(dnp no)
 		(uuid "48edb93e-0fe9-4e8f-9b30-087177ec8b07")
 		(property "Reference" "RN402"
-			(at 97.536 101.092 0)
+			(at 111.252 75.946 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "33k"
-			(at 97.536 103.632 0)
+			(at 111.252 77.724 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 108.712 102.362 90)
+			(at 113.538 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8672,7 +8676,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 102.362 0)
+			(at 113.538 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8681,7 +8685,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 106.68 102.362 0)
+			(at 113.538 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8690,28 +8694,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895dd")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895df")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d2d")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d2e")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c741d")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c741e")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b38")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b3a")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a754")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a756")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6d")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6f")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623731")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623733")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766d")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766f")
 		)
 		(instances
 			(project ""
@@ -8724,7 +8728,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 173.228 66.548 0)
+		(at 180.848 44.196 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8732,7 +8737,7 @@
 		(dnp no)
 		(uuid "494990b8-23c9-4cb5-8ce8-b7da13783069")
 		(property "Reference" "RN404"
-			(at 164.084 65.278 0)
+			(at 177.8 41.148 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8741,7 +8746,7 @@
 			)
 		)
 		(property "Value" "33k"
-			(at 164.084 67.818 0)
+			(at 177.8 38.608 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8750,7 +8755,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 171.196 66.548 90)
+			(at 180.848 46.228 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8759,7 +8764,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 173.228 66.548 0)
+			(at 180.848 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8768,7 +8773,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 173.228 66.548 0)
+			(at 180.848 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8786,16 +8791,16 @@
 			(uuid "da385618-c743-4ea7-a66a-542b2c6c741f")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b3a")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b3b")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a756")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a757")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6f")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd70")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623733")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623734")
 		)
 		(pin "1"
 			(uuid "5c5d6257-692f-4aa3-81b4-f55d0c1b8c5b")
@@ -8811,13 +8816,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 96.266 58.928 90)
+		(at 96.266 58.928 270)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4ad182e5-445f-40f0-a577-480fbf6015d3")
 		(property "Reference" "RN401"
 			(at 96.266 52.324 90)
@@ -8863,28 +8868,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a39")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a3a")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65af")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b0")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d82")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d84")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc6")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc8")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005c")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f005e")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385a")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385c")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b848")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84a")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece04")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece06")
 		)
 		(instances
 			(project ""
@@ -8897,7 +8902,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 223.774 90.678 90)
+		(at 231.648 64.008 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8906,7 +8911,7 @@
 		(fields_autoplaced yes)
 		(uuid "51da0c96-596d-450c-862d-e10c03ac36f7")
 		(property "Reference" "C429"
-			(at 223.774 84.074 90)
+			(at 231.648 57.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8914,7 +8919,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 223.774 86.614 90)
+			(at 231.648 59.944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8922,7 +8927,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 227.584 89.7128 0)
+			(at 235.458 63.0428 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8931,7 +8936,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 223.774 90.678 0)
+			(at 231.648 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8940,7 +8945,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 223.774 90.678 0)
+			(at 231.648 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9171,13 +9176,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 232.41 90.678 90)
+		(at 232.41 90.678 270)
+		(mirror x)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "57801d17-dde7-44d8-8f7d-811a1db123fb")
 		(property "Reference" "RN405"
 			(at 232.41 85.09 90)
@@ -9229,16 +9234,16 @@
 			(uuid "d537feb3-12be-497b-9d0f-262206cf65b1")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d84")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d85")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc8")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc9")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005e")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f005f")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385c")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385d")
 		)
 		(pin "3"
 			(uuid "2c076aea-dbc1-4070-a8b5-ec9690ff8f24")
@@ -9500,7 +9505,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 231.648 64.008 90)
+		(at 223.774 90.678 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9509,7 +9514,7 @@
 		(fields_autoplaced yes)
 		(uuid "5f9349a8-f36f-42f4-b228-12c52b394bec")
 		(property "Reference" "C435"
-			(at 231.648 57.404 90)
+			(at 223.774 84.074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9517,7 +9522,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 231.648 59.944 90)
+			(at 223.774 86.614 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9525,7 +9530,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 235.458 63.0428 0)
+			(at 227.584 89.7128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9534,7 +9539,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.648 64.008 0)
+			(at 223.774 90.678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9543,7 +9548,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 231.648 64.008 0)
+			(at 223.774 90.678 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9672,13 +9677,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 99.822 95.25 90)
+		(at 99.822 95.25 270)
+		(mirror x)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "62ee2aeb-b40c-4929-9743-27b1abd4ee98")
 		(property "Reference" "RN401"
 			(at 99.822 89.662 90)
@@ -9724,28 +9729,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a39")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a3c")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65af")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b2")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d82")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d86")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc6")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fca")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005c")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f0060")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385a")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385e")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b848")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84b")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece04")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece07")
 		)
 		(instances
 			(project ""
@@ -9812,46 +9817,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fb8")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fba")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e4")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e6")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f13")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f15")
 		)
 		(pin "11"
-			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b7e")
+			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b80")
 		)
 		(pin "4"
-			(uuid "3a77c1b7-8701-4999-840f-01c319563945")
+			(uuid "3a77c1b7-8701-4999-840f-01c319563947")
 		)
 		(pin "2"
-			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7403")
+			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7405")
 		)
 		(pin "3"
-			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c0")
+			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c2")
 		)
 		(pin "5"
-			(uuid "99fadd57-4a84-439f-8467-f91239c4bb70")
+			(uuid "99fadd57-4a84-439f-8467-f91239c4bb72")
 		)
 		(pin "6"
-			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b32")
+			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b34")
 		)
 		(pin "1"
-			(uuid "1d227835-a898-4d1a-bf17-90705d82d109")
+			(uuid "1d227835-a898-4d1a-bf17-90705d82d10b")
 		)
 		(pin "7"
-			(uuid "21860277-97af-4092-85bd-0d8d4eb63737")
+			(uuid "21860277-97af-4092-85bd-0d8d4eb63739")
 		)
 		(pin "10"
-			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0c")
+			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0d")
 		)
 		(pin "8"
-			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc0")
+			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc1")
 		)
 		(pin "9"
-			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d4")
+			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d5")
 		)
 		(instances
 			(project ""
@@ -9864,32 +9869,33 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 181.102 83.312 270)
+		(at 174.244 104.902 180)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "65300de1-ffd8-4eba-9f15-c364fbe72896")
 		(property "Reference" "RN404"
-			(at 181.102 77.724 90)
+			(at 171.958 106.1721 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "33k"
-			(at 181.102 80.264 90)
+			(at 171.958 103.6321 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 181.102 81.28 90)
+			(at 176.276 104.902 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9898,7 +9904,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 181.102 83.312 0)
+			(at 174.244 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9907,7 +9913,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 181.102 83.312 0)
+			(at 174.244 104.902 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9916,19 +9922,19 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895de")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e0")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d2e")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d30")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c741e")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c7420")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b39")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b3c")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a755")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a758")
 		)
 		(pin "4"
 			(uuid "dee1616f-bb7e-42bc-b7ab-34a4d07c65cb")
@@ -9937,7 +9943,7 @@
 			(uuid "7364a990-df77-4d1f-af07-28852668e5ce")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766e")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7670")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -10004,13 +10010,13 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fb9")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fbb")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e5")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e7")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f14")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f16")
 		)
 		(pin "11"
 			(uuid "f5bddcaa-e79b-4ee7-a6ad-f9e37e1acba1")
@@ -10019,31 +10025,31 @@
 			(uuid "3b1843f2-20b7-4155-a8a3-31095397bdba")
 		)
 		(pin "2"
-			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7404")
+			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7407")
 		)
 		(pin "3"
-			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c1")
+			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c4")
 		)
 		(pin "5"
-			(uuid "99fadd57-4a84-439f-8467-f91239c4bb71")
+			(uuid "99fadd57-4a84-439f-8467-f91239c4bb74")
 		)
 		(pin "6"
-			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b33")
+			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b36")
 		)
 		(pin "1"
-			(uuid "1d227835-a898-4d1a-bf17-90705d82d10a")
+			(uuid "1d227835-a898-4d1a-bf17-90705d82d10d")
 		)
 		(pin "7"
-			(uuid "21860277-97af-4092-85bd-0d8d4eb63738")
+			(uuid "21860277-97af-4092-85bd-0d8d4eb6373b")
 		)
 		(pin "10"
-			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0d")
+			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0e")
 		)
 		(pin "8"
-			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc1")
+			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc2")
 		)
 		(pin "9"
-			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d5")
+			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d6")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -10358,13 +10364,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 167.386 97.79 90)
+		(at 167.386 97.79 270)
+		(mirror x)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "721260de-db98-40ed-b565-257592d041fe")
 		(property "Reference" "RN403"
 			(at 167.386 92.202 90)
@@ -10410,13 +10416,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a3c")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a3d")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65b2")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b3")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d85")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d87")
 		)
 		(pin "4"
 			(uuid "cd72aa8a-3f02-4bde-a8b4-14d94745a0d1")
@@ -10425,13 +10431,13 @@
 			(uuid "409531ed-0ea6-4182-9383-a530b5a95693")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385d")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385f")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84b")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84c")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece07")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece08")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -10444,13 +10450,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 240.792 64.008 90)
+		(at 240.792 64.008 270)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "73d8e7df-7f05-49c3-96a4-644f5c38958c")
 		(property "Reference" "RN405"
 			(at 240.792 57.404 90)
@@ -10502,22 +10508,22 @@
 			(uuid "fbbbb4d1-0858-4525-95fd-e185c5d73129")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d82")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d88")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc6")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fcb")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005c")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f0061")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385a")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb3860")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b848")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84d")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece04")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece09")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -10936,7 +10942,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 147.066 50.038 90)
+		(at 158.496 97.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10945,7 +10951,7 @@
 		(fields_autoplaced yes)
 		(uuid "8129f662-d410-4dd5-b1f7-7740a319dcdf")
 		(property "Reference" "C432"
-			(at 147.066 43.434 90)
+			(at 158.496 91.186 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10953,7 +10959,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 147.066 45.974 90)
+			(at 158.496 93.726 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10961,7 +10967,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 150.876 49.0728 0)
+			(at 162.306 96.8248 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10970,7 +10976,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.066 50.038 0)
+			(at 158.496 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10979,7 +10985,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 147.066 50.038 0)
+			(at 158.496 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11137,7 +11143,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 174.244 104.902 180)
+		(at 181.102 83.312 270)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11145,7 +11151,7 @@
 		(dnp no)
 		(uuid "8a2ee9f3-34a6-45fc-a120-b129d3a468e3")
 		(property "Reference" "RN404"
-			(at 165.354 103.378 0)
+			(at 184.658 79.756 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11154,7 +11160,7 @@
 			)
 		)
 		(property "Value" "33k"
-			(at 165.354 105.918 0)
+			(at 184.658 77.216 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11163,7 +11169,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 176.276 104.902 90)
+			(at 181.102 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11172,7 +11178,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 174.244 104.902 0)
+			(at 181.102 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11181,7 +11187,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 174.244 104.902 0)
+			(at 181.102 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11190,13 +11196,13 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e0")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e1")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d30")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d31")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c7420")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c7421")
 		)
 		(pin "3"
 			(uuid "78697747-46f5-433b-8cfb-434e9f3aac42")
@@ -11205,13 +11211,13 @@
 			(uuid "fc71ca68-a83a-44ab-a246-ac42b57caa5d")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd70")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd71")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623734")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623735")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7670")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7671")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -11428,32 +11434,34 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 180.848 44.196 90)
+		(at 173.228 66.548 0)
+		(mirror x)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9b0f42ee-614c-4d58-a677-74363a96ae9e")
 		(property "Reference" "RN404"
-			(at 180.848 37.592 90)
+			(at 170.688 65.2779 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "33k"
-			(at 180.848 40.132 90)
+			(at 170.688 67.8179 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 180.848 46.228 90)
+			(at 171.196 66.548 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11462,7 +11470,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 180.848 44.196 0)
+			(at 173.228 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11471,7 +11479,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 180.848 44.196 0)
+			(at 173.228 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11480,7 +11488,7 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895dd")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e2")
 		)
 		(pin "2"
 			(uuid "ec23198b-c68d-4237-8a50-2151e6e9aa63")
@@ -11489,19 +11497,19 @@
 			(uuid "9a9efe34-e3ff-46e7-94da-02e50a4cbd14")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b38")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b3d")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a754")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a759")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6d")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd72")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623731")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623736")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766d")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7672")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -11514,13 +11522,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 244.348 100.33 90)
+		(at 244.348 100.33 270)
+		(mirror x)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9d3b78f4-9907-47aa-80c5-0d56d200a2d6")
 		(property "Reference" "RN405"
 			(at 244.348 94.742 90)
@@ -11566,13 +11574,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a3c")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a3e")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65b2")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b4")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d85")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d89")
 		)
 		(pin "4"
 			(uuid "7fece444-4c26-47e4-80a0-e6e46f77b0bb")
@@ -11581,13 +11589,13 @@
 			(uuid "fa236f32-4f67-4217-83dd-62c3d81472a8")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385d")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb3861")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84b")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84e")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece07")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece0a")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -11807,13 +11815,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 88.646 47.498 90)
+		(at 88.646 47.498 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a0db8eb5-5663-41e2-b1fd-214c72cd17ef")
 		(property "Reference" "RN401"
 			(at 88.646 40.894 90)
@@ -11859,28 +11867,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a39")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a3f")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65af")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b5")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d82")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d8a")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc6")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fcc")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005c")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f0062")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385a")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb3862")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b848")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b84f")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece04")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece0b")
 		)
 		(instances
 			(project ""
@@ -11945,46 +11953,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fb8")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fbc")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e4")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e8")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f13")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f17")
 		)
 		(pin "11"
-			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b7e")
+			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b82")
 		)
 		(pin "4"
-			(uuid "3a77c1b7-8701-4999-840f-01c319563945")
+			(uuid "3a77c1b7-8701-4999-840f-01c319563949")
 		)
 		(pin "2"
-			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7403")
+			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7408")
 		)
 		(pin "3"
-			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c0")
+			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c5")
 		)
 		(pin "5"
-			(uuid "99fadd57-4a84-439f-8467-f91239c4bb70")
+			(uuid "99fadd57-4a84-439f-8467-f91239c4bb75")
 		)
 		(pin "6"
-			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b32")
+			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b37")
 		)
 		(pin "1"
-			(uuid "1d227835-a898-4d1a-bf17-90705d82d109")
+			(uuid "1d227835-a898-4d1a-bf17-90705d82d10e")
 		)
 		(pin "7"
-			(uuid "21860277-97af-4092-85bd-0d8d4eb63737")
+			(uuid "21860277-97af-4092-85bd-0d8d4eb6373c")
 		)
 		(pin "10"
-			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0c")
+			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b10")
 		)
 		(pin "8"
-			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc0")
+			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc4")
 		)
 		(pin "9"
-			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d4")
+			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d8")
 		)
 		(instances
 			(project ""
@@ -12132,7 +12140,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 224.028 52.578 90)
+		(at 235.458 100.33 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12141,7 +12149,7 @@
 		(fields_autoplaced yes)
 		(uuid "a8ed90a3-f90c-4fad-b56a-93f799c22200")
 		(property "Reference" "C430"
-			(at 224.028 45.974 90)
+			(at 235.458 93.726 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12149,7 +12157,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 224.028 48.514 90)
+			(at 235.458 96.266 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12157,7 +12165,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 227.838 51.6128 0)
+			(at 239.268 99.3648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12166,7 +12174,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.028 52.578 0)
+			(at 235.458 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12175,7 +12183,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 224.028 52.578 0)
+			(at 235.458 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12819,32 +12827,34 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 258.064 85.852 270)
+		(at 251.206 107.442 0)
+		(mirror x)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bec49da1-0cff-4d7c-be1d-b16ae8434c19")
 		(property "Reference" "RN406"
-			(at 258.064 80.264 90)
+			(at 249.174 106.1719 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "33k"
-			(at 258.064 82.804 90)
+			(at 249.174 108.7119 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 258.064 83.82 90)
+			(at 249.174 107.442 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12853,7 +12863,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 258.064 85.852 0)
+			(at 251.206 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12862,7 +12872,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 258.064 85.852 0)
+			(at 251.206 107.442 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12871,19 +12881,19 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895de")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e3")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d2e")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d32")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c741e")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c7422")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b39")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b3e")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a755")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a75a")
 		)
 		(pin "4"
 			(uuid "29fe4dc9-9f3c-43dd-ac7c-713f7815fbf5")
@@ -12892,7 +12902,7 @@
 			(uuid "c596f20b-4396-4698-b924-b0614307acaa")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766e")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7673")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -12972,7 +12982,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 251.206 107.442 180)
+		(at 258.064 85.852 270)
+		(mirror x)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12980,7 +12991,7 @@
 		(dnp no)
 		(uuid "c15e4f0a-62bd-419d-8239-ab3fd541cd9d")
 		(property "Reference" "RN406"
-			(at 242.316 105.918 0)
+			(at 260.858 80.772 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12989,7 +13000,7 @@
 			)
 		)
 		(property "Value" "33k"
-			(at 242.316 108.458 0)
+			(at 260.858 83.312 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12998,7 +13009,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 253.238 107.442 90)
+			(at 258.064 87.884 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13007,7 +13018,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 251.206 107.442 0)
+			(at 258.064 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13016,7 +13027,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 251.206 107.442 0)
+			(at 258.064 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13025,13 +13036,13 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e0")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e4")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d30")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d33")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c7420")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c7423")
 		)
 		(pin "3"
 			(uuid "4340abf1-4acf-4291-85aa-b4200d6526a1")
@@ -13040,13 +13051,13 @@
 			(uuid "7ec7d845-835c-421c-a202-6d98ca926862")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd70")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd73")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623734")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623737")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7670")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7674")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -13059,7 +13070,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 113.538 80.772 270)
+		(at 106.68 102.362 180)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13068,23 +13079,25 @@
 		(fields_autoplaced yes)
 		(uuid "c180cbb0-6d72-4d95-901f-4a321e15e815")
 		(property "Reference" "RN402"
-			(at 113.538 75.184 90)
+			(at 108.712 101.0919 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "33k"
-			(at 113.538 77.724 90)
+			(at 108.712 103.6319 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 113.538 78.74 90)
+			(at 108.712 102.362 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13093,7 +13106,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.538 80.772 0)
+			(at 106.68 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13102,7 +13115,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 113.538 80.772 0)
+			(at 106.68 102.362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13111,28 +13124,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895dd")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e5")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d2d")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d34")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c741d")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c7424")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b38")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b3f")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a754")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a75b")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6d")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd74")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623731")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623738")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766d")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7675")
 		)
 		(instances
 			(project ""
@@ -13283,7 +13296,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 79.502 47.498 90)
+		(at 90.932 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13292,7 +13305,7 @@
 		(fields_autoplaced yes)
 		(uuid "c65e1ad6-1072-409a-a07c-4fc1a9ed3bf0")
 		(property "Reference" "C425"
-			(at 79.502 40.894 90)
+			(at 90.932 88.646 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13300,7 +13313,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 79.502 43.434 90)
+			(at 90.932 91.186 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13308,7 +13321,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 83.312 46.5328 0)
+			(at 94.742 94.2848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13317,7 +13330,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 79.502 47.498 0)
+			(at 90.932 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13326,7 +13339,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 79.502 47.498 0)
+			(at 90.932 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13351,7 +13364,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 158.496 97.79 90)
+		(at 147.066 50.038 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13360,7 +13373,7 @@
 		(fields_autoplaced yes)
 		(uuid "c84631b8-60f6-48bf-8e6b-e3888c4cce45")
 		(property "Reference" "C434"
-			(at 158.496 91.186 90)
+			(at 147.066 43.434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13368,7 +13381,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 158.496 93.726 90)
+			(at 147.066 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13376,7 +13389,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 162.306 96.8248 0)
+			(at 150.876 49.0728 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13385,7 +13398,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 158.496 97.79 0)
+			(at 147.066 50.038 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13394,7 +13407,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 158.496 97.79 0)
+			(at 147.066 50.038 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13419,7 +13432,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 105.664 64.008 0)
+		(at 113.284 41.656 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13427,7 +13440,7 @@
 		(dnp no)
 		(uuid "cf3991d2-a936-4907-afb5-af26d0253c49")
 		(property "Reference" "RN402"
-			(at 96.774 62.484 0)
+			(at 110.49 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13436,7 +13449,7 @@
 			)
 		)
 		(property "Value" "33k"
-			(at 96.774 65.024 0)
+			(at 110.49 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13445,7 +13458,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 103.632 64.008 90)
+			(at 113.284 39.624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13454,7 +13467,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.664 64.008 0)
+			(at 113.284 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13463,7 +13476,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 105.664 64.008 0)
+			(at 113.284 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13472,28 +13485,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895dd")
+			(uuid "c76c8eaa-6557-490e-bcbf-c9d27b0895e6")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d2d")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d35")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c741d")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c7425")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b38")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b40")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a754")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a75c")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6d")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd75")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623731")
+			(uuid "61b55a20-9a44-4d7b-83f1-929064623739")
 		)
 		(pin "1"
-			(uuid "5e015552-81ee-4a60-92d4-ac7e627f766d")
+			(uuid "5e015552-81ee-4a60-92d4-ac7e627f7676")
 		)
 		(instances
 			(project ""
@@ -13710,13 +13723,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 155.448 88.138 90)
+		(at 155.448 88.138 270)
+		(mirror x)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d93aa739-341b-4cc9-a097-5cbed73041c1")
 		(property "Reference" "RN403"
 			(at 155.448 82.55 90)
@@ -13762,22 +13775,22 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a3b")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a40")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65b1")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b6")
 		)
 		(pin "8"
-			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d84")
+			(uuid "a3aea48c-ea99-42d7-83a1-ce5e0fb13d8b")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc8")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fcd")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005e")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f0063")
 		)
 		(pin "1"
-			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb385c")
+			(uuid "048a9cae-8f0c-4a72-9050-ff5935fb3863")
 		)
 		(pin "3"
 			(uuid "239717bb-bb92-4611-8aff-d1d6dddf71db")
@@ -13796,7 +13809,8 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 250.19 69.088 0)
+		(at 257.81 46.736 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13804,7 +13818,7 @@
 		(dnp no)
 		(uuid "db273c2e-e185-4e54-b796-27e418d141bf")
 		(property "Reference" "RN406"
-			(at 241.046 67.818 0)
+			(at 255.016 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13813,7 +13827,7 @@
 			)
 		)
 		(property "Value" "33k"
-			(at 241.046 70.358 0)
+			(at 255.016 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13822,7 +13836,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_Array_Concave_4x0603"
-			(at 248.158 69.088 90)
+			(at 257.81 48.768 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13831,7 +13845,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 250.19 69.088 0)
+			(at 257.81 46.736 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13840,7 +13854,7 @@
 			)
 		)
 		(property "Description" "4 resistor network, parallel topology, split"
-			(at 250.19 69.088 0)
+			(at 257.81 46.736 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13852,22 +13866,22 @@
 			(uuid "a2873b34-c5ba-47dc-b2ab-ca1bca4951b9")
 		)
 		(pin "2"
-			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d2f")
+			(uuid "c9e4ad2e-aa9c-45fc-8fd8-77a2b8f93d36")
 		)
 		(pin "7"
-			(uuid "da385618-c743-4ea7-a66a-542b2c6c741f")
+			(uuid "da385618-c743-4ea7-a66a-542b2c6c7426")
 		)
 		(pin "3"
-			(uuid "47e71980-2103-4deb-8abe-c48617f16b3a")
+			(uuid "47e71980-2103-4deb-8abe-c48617f16b41")
 		)
 		(pin "6"
-			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a756")
+			(uuid "a7aff99e-789b-4cca-97c8-5a50b6c4a75d")
 		)
 		(pin "4"
-			(uuid "467df83b-8cae-41be-856a-e35d1d49bd6f")
+			(uuid "467df83b-8cae-41be-856a-e35d1d49bd76")
 		)
 		(pin "5"
-			(uuid "61b55a20-9a44-4d7b-83f1-929064623733")
+			(uuid "61b55a20-9a44-4d7b-83f1-92906462373a")
 		)
 		(pin "1"
 			(uuid "47bb9e1d-fc9f-4c74-b65c-3d7c45699f32")
@@ -13883,7 +13897,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 235.458 100.33 90)
+		(at 224.028 52.578 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13892,7 +13906,7 @@
 		(fields_autoplaced yes)
 		(uuid "ddc5070a-4c90-4b61-9da3-6a3e69ce8bdf")
 		(property "Reference" "C436"
-			(at 235.458 93.726 90)
+			(at 224.028 45.974 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13900,7 +13914,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 235.458 96.266 90)
+			(at 224.028 48.514 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13908,7 +13922,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 239.268 99.3648 0)
+			(at 227.838 51.6128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13917,7 +13931,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 235.458 100.33 0)
+			(at 224.028 52.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13926,7 +13940,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 235.458 100.33 0)
+			(at 224.028 52.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14071,19 +14085,19 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fba")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fbd")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e6")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e9")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f15")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f18")
 		)
 		(pin "11"
-			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b80")
+			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b83")
 		)
 		(pin "4"
-			(uuid "3a77c1b7-8701-4999-840f-01c319563947")
+			(uuid "3a77c1b7-8701-4999-840f-01c31956394a")
 		)
 		(pin "2"
 			(uuid "668227fc-fe6e-4c58-980f-49611548b664")
@@ -14092,25 +14106,25 @@
 			(uuid "308c5568-5f5b-4fa9-abb0-e621f612b452")
 		)
 		(pin "5"
-			(uuid "99fadd57-4a84-439f-8467-f91239c4bb72")
+			(uuid "99fadd57-4a84-439f-8467-f91239c4bb76")
 		)
 		(pin "6"
-			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b34")
+			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b38")
 		)
 		(pin "1"
 			(uuid "1704a61b-3f7c-4c61-ad6d-99c705577fb0")
 		)
 		(pin "7"
-			(uuid "21860277-97af-4092-85bd-0d8d4eb63739")
+			(uuid "21860277-97af-4092-85bd-0d8d4eb6373d")
 		)
 		(pin "10"
-			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0e")
+			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b11")
 		)
 		(pin "8"
-			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc2")
+			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc5")
 		)
 		(pin "9"
-			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d6")
+			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d9")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -14245,46 +14259,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fb8")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fbe")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e4")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8ea")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f13")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f19")
 		)
 		(pin "11"
-			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b7e")
+			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b84")
 		)
 		(pin "4"
-			(uuid "3a77c1b7-8701-4999-840f-01c319563945")
+			(uuid "3a77c1b7-8701-4999-840f-01c31956394b")
 		)
 		(pin "2"
-			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7403")
+			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7409")
 		)
 		(pin "3"
-			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c0")
+			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c6")
 		)
 		(pin "5"
-			(uuid "99fadd57-4a84-439f-8467-f91239c4bb70")
+			(uuid "99fadd57-4a84-439f-8467-f91239c4bb77")
 		)
 		(pin "6"
-			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b32")
+			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b39")
 		)
 		(pin "1"
-			(uuid "1d227835-a898-4d1a-bf17-90705d82d109")
+			(uuid "1d227835-a898-4d1a-bf17-90705d82d10f")
 		)
 		(pin "7"
-			(uuid "21860277-97af-4092-85bd-0d8d4eb63737")
+			(uuid "21860277-97af-4092-85bd-0d8d4eb6373e")
 		)
 		(pin "10"
-			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0c")
+			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b12")
 		)
 		(pin "8"
-			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc0")
+			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc6")
 		)
 		(pin "9"
-			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d4")
+			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3da")
 		)
 		(instances
 			(project ""
@@ -14569,13 +14583,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 233.172 52.578 90)
+		(at 233.172 52.578 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "eefc21ea-8d55-4d42-a1e2-314bc96543f5")
 		(property "Reference" "RN405"
 			(at 233.172 45.974 90)
@@ -14621,28 +14635,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a3a")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a41")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65b0")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b7")
 		)
 		(pin "8"
 			(uuid "c90cf20c-d066-47a2-8fe1-c429afc795df")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc7")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fce")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005d")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f0064")
 		)
 		(pin "1"
 			(uuid "3a005b31-7fc0-432c-badd-d4fdadb6e628")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b849")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b850")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece05")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece0c")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -14813,25 +14827,25 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fbc")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fbf")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e8")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8eb")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f17")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f1a")
 		)
 		(pin "11"
-			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b82")
+			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b85")
 		)
 		(pin "4"
-			(uuid "3a77c1b7-8701-4999-840f-01c319563949")
+			(uuid "3a77c1b7-8701-4999-840f-01c31956394c")
 		)
 		(pin "2"
-			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7407")
+			(uuid "b125ee1a-f789-4c6c-b613-82ba012a740a")
 		)
 		(pin "3"
-			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c4")
+			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c7")
 		)
 		(pin "5"
 			(uuid "ac28c16b-f7a1-482e-9605-a6820969c0fa")
@@ -14840,19 +14854,19 @@
 			(uuid "1f6feca9-56cb-415f-89bc-3f5519cf60ea")
 		)
 		(pin "1"
-			(uuid "1d227835-a898-4d1a-bf17-90705d82d10d")
+			(uuid "1d227835-a898-4d1a-bf17-90705d82d110")
 		)
 		(pin "7"
 			(uuid "f60c06e3-3f6c-4708-9c4b-85952f039ebe")
 		)
 		(pin "10"
-			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b10")
+			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b13")
 		)
 		(pin "8"
-			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc4")
+			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc7")
 		)
 		(pin "9"
-			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d8")
+			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3db")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -14932,13 +14946,13 @@
 	)
 	(symbol
 		(lib_id "Device:R_Pack04_Split")
-		(at 156.21 50.038 90)
+		(at 156.21 50.038 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "fb276ffa-2510-4336-80eb-f530a0ea6384")
 		(property "Reference" "RN403"
 			(at 156.21 43.434 90)
@@ -14984,28 +14998,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "067c7706-eca2-4626-9105-eba038b70a3a")
+			(uuid "067c7706-eca2-4626-9105-eba038b70a42")
 		)
 		(pin "7"
-			(uuid "d537feb3-12be-497b-9d0f-262206cf65b0")
+			(uuid "d537feb3-12be-497b-9d0f-262206cf65b8")
 		)
 		(pin "8"
 			(uuid "67bf8c9d-0c02-4d1c-856b-32cfd80223d3")
 		)
 		(pin "4"
-			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fc7")
+			(uuid "e5daf189-e657-4af9-98ee-63ba19c14fcf")
 		)
 		(pin "5"
-			(uuid "f908190c-4229-44a0-97ca-11d13d9f005d")
+			(uuid "f908190c-4229-44a0-97ca-11d13d9f0065")
 		)
 		(pin "1"
 			(uuid "56d0ce4a-2f34-478f-92a1-b5a43c8e0e8f")
 		)
 		(pin "3"
-			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b849")
+			(uuid "ba3845ab-89e4-4d0f-a46b-86556018b851")
 		)
 		(pin "6"
-			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece05")
+			(uuid "fccc84de-3ae5-4479-aca7-8e42c34ece0d")
 		)
 		(instances
 			(project "MultichannelPickup"
@@ -15137,46 +15151,46 @@
 			)
 		)
 		(pin "12"
-			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fb8")
+			(uuid "6a7332f8-656a-481d-9ebd-61a1ffba7fc0")
 		)
 		(pin "13"
-			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8e4")
+			(uuid "a3d864ed-2f4b-44b5-9897-7ec38380d8ec")
 		)
 		(pin "14"
-			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f13")
+			(uuid "e9bc992f-3c34-43a6-bc32-64b57d113f1b")
 		)
 		(pin "11"
-			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b7e")
+			(uuid "192cc325-2e41-4f87-8049-452c5b4a0b86")
 		)
 		(pin "4"
-			(uuid "3a77c1b7-8701-4999-840f-01c319563945")
+			(uuid "3a77c1b7-8701-4999-840f-01c31956394d")
 		)
 		(pin "2"
-			(uuid "b125ee1a-f789-4c6c-b613-82ba012a7403")
+			(uuid "b125ee1a-f789-4c6c-b613-82ba012a740b")
 		)
 		(pin "3"
-			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c0")
+			(uuid "8dad5d27-f129-41ac-a3d8-06377758e8c8")
 		)
 		(pin "5"
-			(uuid "99fadd57-4a84-439f-8467-f91239c4bb70")
+			(uuid "99fadd57-4a84-439f-8467-f91239c4bb78")
 		)
 		(pin "6"
-			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b32")
+			(uuid "2d07c792-2e70-4c0f-ab5b-f8c00b710b3a")
 		)
 		(pin "1"
-			(uuid "1d227835-a898-4d1a-bf17-90705d82d109")
+			(uuid "1d227835-a898-4d1a-bf17-90705d82d111")
 		)
 		(pin "7"
-			(uuid "21860277-97af-4092-85bd-0d8d4eb63737")
+			(uuid "21860277-97af-4092-85bd-0d8d4eb6373f")
 		)
 		(pin "10"
-			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b0c")
+			(uuid "1f25ca28-ce5e-4420-95c3-45ad5a441b14")
 		)
 		(pin "8"
-			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc0")
+			(uuid "a0c1f172-c7b2-4761-86a4-cc35a5ef7bc8")
 		)
 		(pin "9"
-			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3d4")
+			(uuid "b7ebe66c-f63d-4d0a-b83f-3a4bd42ac3dc")
 		)
 		(instances
 			(project ""
